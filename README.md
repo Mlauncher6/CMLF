@@ -7,11 +7,13 @@
 # 🔥 CMLF - Customizable Modular Linux Firewall
 
 ### *Enterprise-Grade Stateful Firewall with AI-Powered Threat Detection*
+<div align="center">
 
 [![Go Version](https://img.shields.io/badge/Go-1.21%2B-00ADD8?style=for-the-badge&logo=go)](https://golang.org)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](http://makeapullrequest.com)
+
+**🌐 [English](README.md) | [فارسی](README-fa.md)**
 
 </div>
 
