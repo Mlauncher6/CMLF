@@ -1,7 +1,7 @@
 # CMLF
 🔥 CMLF - Customizable MLuncher Firewall | Enterprise-grade stateful firewall with AI-powered threat detection, TUI dashboard, and automatic learning mode
 
-```markdown
+
 <div align="center">
 
 # 🔥 CMLF - Customizable Modular Linux Firewall
@@ -80,7 +80,7 @@ sudo pacman -S \
     libpcap \
     iptables \
     base-devel
-```
+
 
 ### **Step 2: Install Go (if not installed)**
 
@@ -623,8 +623,6 @@ If CMLF helped secure your infrastructure:
 <div align="center">
 
 **Built with 💜 and Go**
-
-[Report Bug](https://github.com/yourusername/cmlf/issues) · [Request Feature](https://github.com/yourusername/cmlf/issues) · [Documentation](docs/)
 
 </div>
 ```
