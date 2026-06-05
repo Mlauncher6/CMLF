@@ -98,7 +98,7 @@ source ~/.bashrc
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cmlf.git
+git clone https://github.com/Mlauncher6/cmlf.git
 cd cmlf
 
 # Download Go dependencies
